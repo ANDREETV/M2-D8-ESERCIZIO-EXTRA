@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    text-align: center;
+}
+
+body a {
+    color: red;
+}
+
+.bordo{
+    border: 2px solid green;
+    border-radius: 10px;
+}
+
+.container p{
+    margin: 10px;
+}
+.testo-lista{
+    font-size: 2.3em;
+    font-weight: 900;
+}
+
+.nascoto{
+    display: none;
+}
+
+.elimina{
+    display: none;
+}
+
